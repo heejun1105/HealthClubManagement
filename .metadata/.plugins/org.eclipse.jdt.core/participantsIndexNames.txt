@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+C:\Çï½ºÅ¬·´°ü¸®2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\988302055.index
+\Çï½º2\src
